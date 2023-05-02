@@ -2,10 +2,25 @@ label, input, button {
     margin: 10px;
     padding: 5px;
 }
-
+.champss{
+    margin-left: 25px;
+    color: #2ea3dd;
+}
 footer {
     bottom: 0;
     position: absolute;
     width: 90%;
     height: 40px;
+}
+.champs{
+    color: #2ea3dd;
+}
+.errorMessage{
+    color: red;
+    font-size: 15px;
+}
+.LOGIN{
+    width: 200px;
+    margin-left: 50px;
+    
 }
