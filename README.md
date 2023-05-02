@@ -25,6 +25,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#demo">Demo</a></li>
+        <li><a href="#uder-interfaces">User Interfaces</a></li>
         <li><a href="#built-with">Built With</a></li>  
       </ul>
     </li>
@@ -46,6 +47,7 @@
 
 ![Todo App - Google Chrome 2023-05-02 15-59-38](https://user-images.githubusercontent.com/99918658/235771014-9c67b480-571a-4147-a8a8-f6b84792714b.gif)
 
+### User Interfaces
 
 This is the User Interfaces of the application as shown.
 - Login interface : 
