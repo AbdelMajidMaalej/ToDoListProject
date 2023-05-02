@@ -29,7 +29,7 @@
     </li>
     <li><a href="#usage">Conception</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributeurs">Contributeurs</a></li>
+    <li><a href="#contributeurs">Contributors</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#bugs-to-fix">Functionality to add</a></li>
    
@@ -91,8 +91,8 @@ This is the User Interfaces of the application as shown.
 
 
 
-<!-- Contributeurs -->
-## Contributeurs
+<!-- Contributors -->
+## Contributors
 
 * [ABDEL MAJID MAALEJ](https://github.com/AbdelMajidMaalej)
 * [MOHAMED AZIZ BOUACHOUR](https://github.com/Bouachour-Med-Aziz)
